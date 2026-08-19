@@ -1,0 +1,9 @@
+venv/
+node_modules/
+.env
+.env.local
+events.db
+.next/
+__pycache__/
+*.pyc
+.vercel
